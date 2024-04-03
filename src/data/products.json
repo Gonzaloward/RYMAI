@@ -1,0 +1,63 @@
+ [
+{
+    "name": "Almohadilla blanca",
+    "id": 1,
+    "category": " Cascos ",
+    "detail":"25x14 2,3 Cm de espesor, Consistencia semi rigida",
+    "img":,
+    "precio":,
+},
+
+{
+    "name": "Almohadilla Negra",
+    "id": 2,
+    "category": "Cascos",
+    "detail":"25x14 2,3 Cm de espesor, Consistencia semi rigida",
+    "img": 
+},
+
+{
+    "name": " Jet Vulcano",
+    "id": 3,
+    "category": "Jets",
+    "detail":"- Marca: Vulcano
+     Toma de fondo Vulcano para piscinas de hormigón con tapa segura de aberturas pequeñas y sistema antiremolino, sujeta con tornillos parker.
+     Fabricadas en poliestireno de alto impacto. Cuenta con 2 tomas de rosca hembra de 2",
+    "img": 
+},
+
+{
+    "name": " Hidrojet ",
+    "id": 4,
+    "category": "Jets",
+    "detail":"Vistas Cromadas con Acabo Espejo. Direccionables para la comodidad de cada usuario.
+    Nuevo modelo plano (No curvo), Acabado Cromado/Espejo.
+    •Diámetro de perforación 44 mm.
+    •Diámetro de conexión de caños (aire 32 mm) y (agua 32 mm).
+    Para conexión se utiliza adhesivo/fundiente para PVC.",
+    "img": 
+},
+
+{
+    "name": "cascos",
+    "id": 5,
+    "category": "Piletas",
+    "detail":"Este lujoso hidromasaje Piazza BH170L de 170 cm es de fibra de vidrio en un elegante color blanco. Viene equipado con 8 jets direccionables y 1 jet cervical para una experiencia de baño relajante y rejuvenecedora. Además, un motor de 1/2 HP y un sistema de antidesborde incorporado para su seguridad. El encendido es neumático y tiene un regulador de aire para ajustar a su preferencia.",
+    "img": 
+},
+
+{
+    "name": "HIDRO DUAL",
+    "id": 6,
+    "category": "Piletas",
+    "detail":"Modelo Dual de
+    180x130x50 cm 14 jets, 1 hp.. Sopapa con
+    Desborde y Kit Plomero,
+    Acrílico con resina Poliéster y fibra de
+    Carbono con vidrio.
+    Garantía 10 años.
+    La fabricamos en las siguientes medidas:
+    150x140 - 180x130 - 180x150",
+    "img": 
+},
+]
