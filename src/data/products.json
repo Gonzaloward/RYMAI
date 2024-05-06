@@ -4,8 +4,8 @@
     "id": 1,
     "category": " Cascos ",
     "detail":"25x14 2,3 Cm de espesor, Consistencia semi rigida",
-    "img":,
-    "precio":,
+    "img": "https://www.google.com/search?sca_esv=1b97633427c5a4ec&rlz=1C1YTUH_esAR1043AR1045&sxsrf=ADLYWIIZtXjbukISWlV8yd3swgObuZGANQ:1714957307768&q=almohadilla+de+hidromasaje&uds=ADvngMhhDoUiRlghAkhZNdYT43b0SkaDJKc4N0tw_TwH9GMx-hNdYcNb7jxeHjtCzZLJ_QTT0wtjS9gNqkOVof9teoo9QXGvt2W-xdiWHAGfl0PHp7CN_m_rZDzFD8AzrxhcV8qCF-yBKHUmKevsB5sBtqsOfBJCJ7bk5C2n0y6CMg0XCzDIVL2pspcmLUyHY_vhjS71AfNoVL2rKJPws7uQdVw4RHQCshRNaYVUAPGEJleWVcOcgbOzGXy2YSW7zXfq5yNPaBeDM2Orbh1y3GT9ogbgHul8Ve2ZbSO31J4LHw6NdMDDEeU&udm=2&prmd=isvnbmtz&sa=X&sqi=2&ved=2ahUKEwiCp4np6feFAxVIpZUCHekUADcQtKgLegQIDhAB&biw=1280&bih=593&dpr=1.5#vhid=btwLnk_2A-UoUM&vssid=mosaic",
+    "precio":1000,
 },
 
 {
@@ -13,7 +13,8 @@
     "id": 2,
     "category": "Cascos",
     "detail":"25x14 2,3 Cm de espesor, Consistencia semi rigida",
-    "img": 
+    "img": "https://www.google.com/search?sca_esv=1b97633427c5a4ec&rlz=1C1YTUH_esAR1043AR1045&sxsrf=ADLYWIIZtXjbukISWlV8yd3swgObuZGANQ:1714957307768&q=almohadilla+de+hidromasaje&uds=ADvngMhhDoUiRlghAkhZNdYT43b0SkaDJKc4N0tw_TwH9GMx-hNdYcNb7jxeHjtCzZLJ_QTT0wtjS9gNqkOVof9teoo9QXGvt2W-xdiWHAGfl0PHp7CN_m_rZDzFD8AzrxhcV8qCF-yBKHUmKevsB5sBtqsOfBJCJ7bk5C2n0y6CMg0XCzDIVL2pspcmLUyHY_vhjS71AfNoVL2rKJPws7uQdVw4RHQCshRNaYVUAPGEJleWVcOcgbOzGXy2YSW7zXfq5yNPaBeDM2Orbh1y3GT9ogbgHul8Ve2ZbSO31J4LHw6NdMDDEeU&udm=2&prmd=isvnbmtz&sa=X&sqi=2&ved=2ahUKEwiCp4np6feFAxVIpZUCHekUADcQtKgLegQIDhAB&biw=1280&bih=593&dpr=1.5#vhid=fOr_tu9q0qu_nM&vssid=mosaic",
+    "precio": 1000, 
 },
 
 {
@@ -23,7 +24,8 @@
     "detail":"- Marca: Vulcano
      Toma de fondo Vulcano para piscinas de hormigón con tapa segura de aberturas pequeñas y sistema antiremolino, sujeta con tornillos parker.
      Fabricadas en poliestireno de alto impacto. Cuenta con 2 tomas de rosca hembra de 2",
-    "img": 
+    "img": "https://www.google.com/search?q=jets+vulcano&sca_esv=1b97633427c5a4ec&rlz=1C1YTUH_esAR1043AR1045&udm=2&biw=1280&bih=593&sxsrf=ADLYWILkBqf8QwZgFziAxOwamZ4WShg-Pg%3A1714957402189&ei=Wiw4ZqeRC4rR1sQProe8oA0&oq=jets+&gs_lp=Egxnd3Mtd2l6LXNlcnAiBWpldHMgKgIIADIEECMYJzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjUE1DOBlj5DXADeACQAQCYAXqgAcEDqgEDNC4xuAEDyAEA-AEBmAIIoAKmBMICChAAGIAEGEMYigXCAg4QABiABBixAxiDARiKBcICCBAAGIAEGLEDwgIEEAAYA5gDAIgGAZIHAzYuMqAHkh8&sclient=gws-wiz-serp#vhid=L7bM7QkWFUD-DM&vssid=mosaic" ,
+    "precio": 2000,
 },
 
 {
@@ -35,7 +37,8 @@
     •Diámetro de perforación 44 mm.
     •Diámetro de conexión de caños (aire 32 mm) y (agua 32 mm).
     Para conexión se utiliza adhesivo/fundiente para PVC.",
-    "img": 
+    "img": "https://www.google.com/search?q=hidrojets&sca_esv=1b97633427c5a4ec&rlz=1C1YTUH_esAR1043AR1045&udm=2&biw=1280&bih=593&sxsrf=ADLYWIJpYIr2oib56EA661yR5xOv3B3r4w%3A1714957445721&ei=hSw4ZpbQK8vK1sQP6sm8yAc&ved=0ahUKEwjWpu2q6veFAxVLpZUCHeokD3kQ4dUDCBA&uact=5&oq=hidrojets&gs_lp=Egxnd3Mtd2l6LXNlcnAiCWhpZHJvamV0czIEECMYJzIFEAAYgAQyBRAAGIAEMgcQABiABBgYMgcQABiABBgYSL8MUNYLWNYLcAF4AJABAJgBS6ABS6oBATG4AQPIAQD4AQGYAgKgAlnCAgoQABiABBhDGIoFmAMAiAYBkgcBMqAH7AM&sclient=gws-wiz-serp#vhid=G8UJHYQOmR8OyM&vssid=mosaic",
+    "precio": 2000,
 },
 
 {
@@ -43,7 +46,8 @@
     "id": 5,
     "category": "Piletas",
     "detail":"Este lujoso hidromasaje Piazza BH170L de 170 cm es de fibra de vidrio en un elegante color blanco. Viene equipado con 8 jets direccionables y 1 jet cervical para una experiencia de baño relajante y rejuvenecedora. Además, un motor de 1/2 HP y un sistema de antidesborde incorporado para su seguridad. El encendido es neumático y tiene un regulador de aire para ajustar a su preferencia.",
-    "img": 
+    "img":"https://www.google.com/search?sca_esv=1b97633427c5a4ec&rlz=1C1YTUH_esAR1043AR1045&sxsrf=ADLYWIKgvUtUiYN_lp9SogzW9gvZnEutfQ:1714957504705&q=hidromasajes&uds=ADvngMgJJZ3sWYwFKSIsRiA2eMJNPi0R99OJAGEXaSPNSWJRdx1I_zRrvXAuJ3Gek2L_MK_9DNMROG_SfKNBLtWnQ0nkSFZ0sXNcjWiKR1koUP1Jo-IZWLPnsrA6hJmM0Todv7_0w1j175qEr8AP1-pnAiGiu4hSFtrUT0FfKtgBYavrGkHWYwf0xc4Zjj-o9-MT9S1N1AbgNvPzbuYIEntu1SUp7-utaFj8eRApGFMo4wcKaUX3nkkjaKvHoPN0IvoFqU24HfnPUHR4iHWLXdbhsUk-xLOIXWyiJiBWLvMmGDurY3M1drE&udm=2&prmd=sivmnbtz&sa=X&ved=2ahUKEwjQqP3G6veFAxVJnpUCHfgZAkQQtKgLegQIFxAB&biw=1280&bih=593&dpr=1.5#vhid=edh9AmsmjVrjpM&vssid=mosaic",
+    "precio": 3000,
 },
 
 {
@@ -58,6 +62,7 @@
     Garantía 10 años.
     La fabricamos en las siguientes medidas:
     150x140 - 180x130 - 180x150",
-    "img": 
+    "img": "https://www.google.com/search?q=dual+hidro&sca_esv=1b97633427c5a4ec&rlz=1C1YTUH_esAR1043AR1045&udm=2&biw=1280&bih=593&sxsrf=ADLYWIKs466aTKnGp16M0m6K8xoYrOZUEw%3A1714957507531&ei=wyw4Zqf9H7nW1sQPwNCViAI&ved=0ahUKEwjn6qnI6veFAxU5q5UCHUBoBSEQ4dUDCBA&uact=5&oq=dual+hidro&gs_lp=Egxnd3Mtd2l6LXNlcnAiCmR1YWwgaGlkcm8yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB4yBhAAGAgYHjIGEAAYCBgeMgYQABgIGB5ImiVQqAtYjCRwBHgAkAEAmAHBAaABjgiqAQQxMS4xuAEDyAEA-AEBmAIPoAKpCKgCCsICBxAjGCcY6gLCAgQQIxgnwgIIEAAYgAQYsQPCAgoQABiABBhDGIoFwgIFEAAYgATCAgQQABgDwgIHEAAYgAQYE8ICCBAAGBMYCBgewgIJEAAYgAQYGBgKmAMIkgcGMTQuMC4xoAfhPA&sclient=gws-wiz-serp#vhid=seZQzga0ncZ7WM&vssid=mosaic",
+    "precio":4000,
 },
 ]
